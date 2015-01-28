@@ -81,6 +81,12 @@ Firstly, it identifies column and row numbers by checking dealer's up card and p
                          .
                          .
 ```
+
+### Cheat Menu
+To enable cheat menu press "Enter" key and type this code
+
+`IKnowWhatIamDoing`
+
 ## Contributors
 
 Thanks for your support on this project
