@@ -1,7 +1,6 @@
 # Jani Blackjack Analyser
 
-A simple blackjack game supported by card counting and basic strategy. Coded in C# to testing basic strategy and card counting algorithms
-for further projects. 
+A simple blackjack game supported by card counting and basic strategy. Coded for analysing basic strategy and card counting algorithms in large scale researches about mathematics of blackjack.
 
 ## General Notes
 
